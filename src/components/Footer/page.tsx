@@ -17,10 +17,10 @@ const Footer = () => {
                     <div className="lg:col-span-2">
                         <div className="flex items-center space-x-3 mb-5">
                             <div className="w-20 h-12 bg-gradient-to-br from-blue-400 to-purple-500 rounded-xl flex items-center justify-center shadow-lg shadow-indigo-700/30">
-                                <span className="text-white font-bold text-xl">Minty's</span>
+                                <span className="text-white font-bold text-xl">AA</span>
                             </div>
                             <h2 className="text-3xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-blue-200 to-purple-300">
-                                Pepermint Gallery
+                                Gallery
                             </h2>
                         </div>
                         <p className="text-gray-300 leading-relaxed max-w-lg text-sm md:text-base">

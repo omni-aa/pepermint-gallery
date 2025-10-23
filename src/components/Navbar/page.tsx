@@ -59,10 +59,11 @@ const Navbar = () => {
                             {/* Brand */}
                             <Link to="/" className="flex items-center space-x-2 group relative">
                                 <div className="w-15 h-9 bg-gradient-to-br from-primary to-primary/70 rounded-lg flex items-center justify-center shadow-lg shadow-primary/30 transition-transform duration-300 group-hover:scale-110 group-hover:shadow-primary/50">
-                                    <span className="text-white font-bold text-sm">Minty's</span>
+                                    <span className="text-white font-bold text-sm">AA</span>
                                 </div>
                                 <span className="text-2xl font-bold bg-gradient-to-r from-foreground to-foreground/80 dark:from-foreground-dark dark:to-foreground-dark/80 bg-clip-text text-transparent transition-all duration-300 group-hover:from-primary group-hover:to-primary/70">
-                  Pepermint Gallery
+
+                                    Gallery
                 </span>
                             </Link>
 
